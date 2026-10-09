@@ -569,8 +569,10 @@ Escreva uma breve conclusão defendendo sua solução como se estivesse apresent
 
 ```md
 
-A arquitetura proposta para a Wiki Corporativa Inteligente resolve de forma simples, eficiente e segura o problema dos arquivos acumulados na pasta raw/. Utilizando serviços totalmente Serverless da AWS — como Amazon S3, AWS Lambda, AWS Step Functions, Amazon Textract, Amazon DynamoDB e Amazon Bedrock —, a solução transforma documentos desorganizados em uma base de conhecimento pesquisável por linguagem natural. 
+A arquitetura proposta para a Wiki Corporativa Inteligente resolve de forma simples, eficiente e segura o problema dos arquivos acumulados na pasta raw/.
+Utilizando serviços totalmente Serverless da AWS como Amazon S3, AWS Lambda, AWS Step Functions, Amazon Textract, Amazon DynamoDB e Amazon Bedrock , a solução transforma documentos desorganizados em uma base de conhecimento pesquisável por linguagem natural. 
 
-Com essa estrutura, qualquer liderança ou colaborador consegue encontrar rapidamente decisões, responsáveis, prazos e métricas de vendas em segundos, com a garantia de total rastreabilidade até o documento fonte original. Trata-se de uma proposta robusta, escalável e perfeitamente alinhada às práticas recomendadas de nuvem da AWS.
+Com essa estrutura, qualquer liderança ou colaborador consegue encontrar rapidamente decisões, responsáveis, prazos e métricas de vendas em segundos, com a garantia de total rastreabilidade até o documento fonte original.
+Trata-se de uma proposta robusta, escalável e perfeitamente alinhada às práticas recomendadas de nuvem da AWS.
 
 ```
